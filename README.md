@@ -51,3 +51,9 @@ Alternatives
 ===================
 
 If you just want to be able to intercept JQuery $.ajax() calls, [Global Ajax Event Handlers](http://api.jquery.com/category/ajax/global-ajax-event-handlers/) also work.
+
+License
+===================
+
+MIT
+
