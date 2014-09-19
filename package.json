@@ -1,0 +1,20 @@
+{
+    "name": "ajax-interceptor",
+    "version": "1.0.0",
+    "description": "Permits to intercept Ajax calls. Useful to detect disconnected user or things like that",
+    "keywords": [
+        "xhr",
+        "ajax",
+        "aop",
+        "proxy",
+        "interceptor"
+    ],
+    "author": "Sebastien Lorber",
+    "homepage": "https://github.com/slorber/ajax-interceptor",
+    "bugs": "https://github.com/slorber/ajax-interceptor/issues",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/slorber/ajax-interceptor"
+    }
+}
