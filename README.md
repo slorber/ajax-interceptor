@@ -5,6 +5,20 @@ This permits to wire some request and response hooks on any Ajax calls.
 
 I find this handy, for exemple, to handle user session expiration and redirect the user to the login page whenever an Ajax call fails with an auth failure.
 
+Install
+==============
+
+Install it!
+```
+npm install ajax-interceptor --save
+```
+
+Use it! (with **Browserify**)
+```javascript
+var AjaxInterceptor = require("ajax-interceptor");
+```
+
+
 
 API
 ===============
