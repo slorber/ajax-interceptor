@@ -18,6 +18,7 @@ Use it! (with **Browserify**)
 var AjaxInterceptor = require("ajax-interceptor");
 ```
 
+No other support for now, but feel free to contribute.
 
 
 API
