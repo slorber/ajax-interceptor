@@ -61,6 +61,11 @@ function proxifyOnReadyStateChange(xhr) {
     }
 }
 
+
+exports.isWired = function() {
+    return wired;
+}
+
 exports.wire = function() {
     if ( wired ) throw new Error("Ajax interceptor already wired");
 

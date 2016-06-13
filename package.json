@@ -1,6 +1,6 @@
 {
     "name": "ajax-interceptor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Permits to intercept Ajax calls. Useful to detect disconnected user or things like that",
     "keywords": [
         "xhr",
